@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madeline!</h1>
 
-![Alt Text](https://github.com/mado8/mado8/files/7350880/Madeline.Donley.1.pdf)
-
+![Madeline Donley](https://user-images.githubusercontent.com/88465484/137432091-5a257c6d-260d-4467-8500-8e393d1c4cf3.png)
 
 <h3 align="center">I am an up and coming Software Developer! I am passionate about learning, and am always looking to improve.</h3>
 
