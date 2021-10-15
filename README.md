@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madeline!</h1>
 
-[Madeline Donley (2).pdf](https://github.com/mado8/mado8/files/7351016/Madeline.Donley.2.pdf)
+![Madeline Donley (2).pdf](https://github.com/mado8/mado8/files/7351018/Madeline.Donley.2.pdf)
 
 ## About Me
 
