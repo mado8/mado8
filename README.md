@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madeline!</h1>
 
-![Madeline Donley (2).pdf](https://github.com/mado8/mado8/files/7351018/Madeline.Donley.2.pdf)
+![Madeline Donley (2).pdf](https://github.com/mado8/mado8/files/7351023/Madeline.Donley.2.pdf)
 
 ## About Me
+
 
 I am an up and coming Software Developer! I am passionate about learning, and am always looking to improve. Currently I am a student at the University of Denver and am enrolled in the Coding Boot Camp program. As an innovator, I am constantly using my skills to build new projects and execute new ideas. I see every moment as a new opportunity. You can see my current projects and their progress below!
 
