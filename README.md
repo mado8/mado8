@@ -2,13 +2,21 @@
 
 ![Madeline Donley](https://user-images.githubusercontent.com/88465484/137432091-5a257c6d-260d-4467-8500-8e393d1c4cf3.png)
 
-<h3 align="center">I am an up and coming Software Developer! I am passionate about learning, and am always looking to improve.</h3>
+## About Me
 
-- 🌱 I’m currently learning **JavaScript, React, SQL, API's, and Express.js**
+-I am an up and coming Software Developer! I am passionate about learning, and am always looking to improve.</h3>
+
+## Portfolio
 
 - 👨‍💻 All of my projects are available at [https://mado8.github.io/portfolio/](https://mado8.github.io/portfolio/)
 
+## Contact Me
+
 - 📫 How to reach me **madelineadonley@gmail.com**
+
+## Skills
+
+- 🌱 I’m currently learning **JavaScript, React, SQL, API's, and Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
