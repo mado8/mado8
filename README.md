@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madeline!</h1>
+<h1 align="center">Hello, I'm Madeline!</h1>
 
 ![Madeline Donley (2)](https://user-images.githubusercontent.com/88465484/137435745-96ce6aa8-e165-4924-a8ed-529e5634ea59.png)
 
