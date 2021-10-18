@@ -8,11 +8,14 @@ Web developer with experience in technology, coding, and the sciences. Certifica
 
 ## Portfolio
 
-- 👨‍💻 All of my projects are available at [https://mado8.github.io/portfolio/](https://mado8.github.io/portfolio/)
+- My live portfolio is available at [https://mado8.github.io/portfolio/](https://mado8.github.io/portfolio/)
 
 ## Contact Me
 
-- 📫 How to reach me **madelineadonley@gmail.com**
+- **madelineadonley@gmail.com**
+- **720-614-1655**
+
+Discord: mads#8312
 
 ## Skills
 
