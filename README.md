@@ -15,11 +15,9 @@ Web developer with experience in technology, coding, and the sciences. Certifica
 - **madelineadonley@gmail.com**
 - **720-614-1655**
 
-Discord: mads#8312
-
 ## Skills
 
-- 🌱 I’m currently learning **JavaScript, React, SQL, API's, and Express.js**
+- I’m currently learning **JavaScript, React, SQL, API's, and Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
