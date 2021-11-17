@@ -20,4 +20,4 @@ Web developer with experience in technology, coding, and the sciences. In progre
 
 ## Skills
 
-- I’m currently learning **JavaScript, React, SQL, API's, and Express.js**
+- I’m currently learning **JavaScript, Node.js, React, mySQL, API's, and Express.js**
