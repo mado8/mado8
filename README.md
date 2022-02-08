@@ -15,7 +15,7 @@ Web developer with experience in technology, coding, and the sciences. In progre
 - Visit my LinkedIn page at [https://www.linkedin.com/in/madeline-donley-0110/](https://www.linkedin.com/in/madeline-donley-0110/)
 ## Contact Me
 
-- **madelineadonley@gmail.com**
+- **mads.donley@gmail.com**
 - **720-614-1655**
 
 ## Skills
