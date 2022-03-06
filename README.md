@@ -4,7 +4,7 @@
 
 ## About Me
 
-Web developer with experience in technology, coding, and the sciences. In progress certificate from University of Denver in full stack web technologies including HTML, CSS, JavaScript, and MERN stack. College level experience with rigorous coursework involving physics, utilizing data sets from the GOES-19 satellite with Python, and working with a team to disprove a scientific hypothesis regarding the temperature of the sun’s corona. A philomath at heart with specialties in leading edge technology. Having an adjustable mentality makes problem solving a strength, and my affability encourages a productive and strong team dynamic.
+Web developer with experience in technology, coding, and the sciences. Certificate from University of Denver in full stack web technologies including MySQL, GraphQL, HTML, CSS, JavaScript, and MERN stack. College level experience with rigorous coursework involving physics, utilizing data sets from the GOES-19 satellite with Python, and working with a team to disprove a scientific hypothesis regarding the temperature of the sun’s corona. A philomath at heart with specialties in leading edge technology. Having an adjustable mentality makes problem solving a strength, and my affability encourages a productive and strong team dynamic.
 
 ## Portfolio
 
@@ -13,6 +13,7 @@ Web developer with experience in technology, coding, and the sciences. In progre
 ## LinkedIn
 
 - Visit my LinkedIn page at [https://www.linkedin.com/in/madeline-donley-0110/](https://www.linkedin.com/in/madeline-donley-0110/)
+
 ## Contact Me
 
 - **mads.donley@gmail.com**
@@ -20,4 +21,4 @@ Web developer with experience in technology, coding, and the sciences. In progre
 
 ## Skills
 
-- I’m currently learning **JavaScript, Node.js, React, mySQL, and Express.js**
+- I’m currently learning **Brain.js, Vue, React, Three.js, and Python**
